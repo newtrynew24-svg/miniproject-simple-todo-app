@@ -1,2 +1,2 @@
 # miniproject-simple-todo-app
-Source code for the calculator project from my YouTube channel https://www.youtube.com/@notsure-w2y
+The source code created for the project is taken for my YouTube channel https://www.youtube.com/@notsure-w2y
